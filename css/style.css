@@ -127,6 +127,6 @@ body {
 
 @media screen and (max-width: 768px) {
     .rating-container {
-        width: 85%;
+        width: 90%;
     }
 }
