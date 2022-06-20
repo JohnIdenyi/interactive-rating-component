@@ -81,6 +81,10 @@ body {
     color: var(--white);
 }
 
+#rating-state .number:focus {
+    outline: none;
+}
+
 .btn {
     background-color: var(--orange);
     color: var(--white);
